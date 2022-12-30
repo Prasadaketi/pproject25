@@ -9,6 +9,10 @@ This is a web based application developed for health related based website in in
 **Project Link** - https://witty-sea-0486c2600.2.azurestaticapps.net/
 **project demo video link** - 
 
+## Azure technologies used for Project
+
+- Static web apps
+- Health bot
 
 ## Features and Functionalities 😃
 
@@ -31,19 +35,6 @@ This is a web based application developed for health related based website in in
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/104889674/210084264-f7496857-86c8-4733-a18a-606ba44abe41.png)
 
-### About Us -
-
-
-
-### Services -
-
-
-
-### Contact us -
-
-
-
-### health bot
 
 
 
